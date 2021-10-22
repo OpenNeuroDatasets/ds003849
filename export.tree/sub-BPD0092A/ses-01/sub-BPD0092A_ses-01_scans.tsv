@@ -1,0 +1,5 @@
+filename	acq_time	operator	randstr
+anat/sub-BPD0092A_ses-01_run-01_T1w.nii.gz	2018-04-13T12:32:04	n/a	e4e289c7
+anat/sub-BPD0092A_ses-01_run-01_T2w.nii.gz	2018-04-13T12:35:59	n/a	8d443354
+func/sub-BPD0092A_ses-01_task-rest_run-01_bold.nii.gz	2018-04-13T12:37:07	n/a	7b61d9ab
+func/sub-BPD0092A_ses-01_task-nback_run-01_bold.nii.gz	2018-04-13T12:43:48	n/a	a3a3c448
