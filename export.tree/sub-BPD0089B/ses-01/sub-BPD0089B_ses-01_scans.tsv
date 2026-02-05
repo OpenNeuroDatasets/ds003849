@@ -1,0 +1,5 @@
+filename	acq_time	operator	randstr
+anat/sub-BPD0089B_ses-01_run-01_T1w.nii.gz	2018-04-06T14:41:16	HENGYI	9d8095b4
+anat/sub-BPD0089B_ses-01_run-01_T2w.nii.gz	2018-04-06T14:45:10	HENGYI	dc19b046
+func/sub-BPD0089B_ses-01_task-rest_run-01_bold.nii.gz	2018-04-06T14:46:12	HENGYI	0bcb4599
+func/sub-BPD0089B_ses-01_task-nback_run-01_bold.nii.gz	2018-04-06T14:52:24	HENGYI	5f5beff8

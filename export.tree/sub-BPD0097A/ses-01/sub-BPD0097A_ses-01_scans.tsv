@@ -1,0 +1,5 @@
+filename	acq_time	operator	randstr
+anat/sub-BPD0097A_ses-01_run-01_T1w.nii.gz	2018-06-22T14:26:57	THOMPSON-SCHILL	a4cde079
+anat/sub-BPD0097A_ses-01_run-01_T2w.nii.gz	2018-06-22T14:31:09	THOMPSON-SCHILL	9ca12609
+func/sub-BPD0097A_ses-01_task-rest_run-01_bold.nii.gz	2018-06-22T14:37:44	THOMPSON-SCHILL	c1232f2b
+func/sub-BPD0097A_ses-01_task-nback_run-01_bold.nii.gz	2018-06-22T14:45:16	THOMPSON-SCHILL	4f7a1d16

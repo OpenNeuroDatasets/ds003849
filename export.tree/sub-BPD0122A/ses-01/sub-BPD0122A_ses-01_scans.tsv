@@ -1,0 +1,5 @@
+filename	acq_time	operator	randstr
+anat/sub-BPD0122A_ses-01_run-01_T1w.nii.gz	2019-01-13T10:20:37	Mackey	d68e7d21
+anat/sub-BPD0122A_ses-01_run-01_T2w.nii.gz	2019-01-13T10:27:04	Mackey	d58dd321
+func/sub-BPD0122A_ses-01_task-rest_run-01_bold.nii.gz	2019-01-13T10:29:20	Mackey	15e194d5
+func/sub-BPD0122A_ses-01_task-nback_run-01_bold.nii.gz	2019-01-13T10:38:24	Mackey	e93a37a7
